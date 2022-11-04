@@ -1,6 +1,6 @@
 # CXMLSession
 A .NET Objects Persistence Library<p><b>
-Almost all .NET object can be serialized in an XML files and viceversa.
+Almost all .NET objecta can be serialized in an XML files and viceversa.
 
 
             CXMLSession.SessionStore MyStoreA = new CXMLSession.SessionStore("MyStore");
